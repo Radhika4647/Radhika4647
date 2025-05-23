@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 👋,I'm Radhika.
 
+Welcome to my GitHub profile.
+
+## About Me
+- 🌱 I’m currently learning Python, SQL, and Excel.
+- ⚡ Fun fact: I love building new things and organizing ideas. 
+
+## Connect with Me
+- Email:radhikasaini7675@gmail.com
+- Linkedin:https://linkdin.com/in/RadhikaSaini
 <!--
 **Radhika4647/Radhika4647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
