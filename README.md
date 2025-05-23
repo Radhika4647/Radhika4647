@@ -8,7 +8,7 @@ Welcome to my GitHub profile.
 
 ## Connect with Me
 - Email:radhikasaini7675@gmail.com
-- Linkedin:https://linkdin.com/in/RadhikaSaini
+- Linkedin:https://linekdin.com/in/RadhikaSaini
 <!--
 **Radhika4647/Radhika4647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
